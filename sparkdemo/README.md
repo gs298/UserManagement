@@ -1,5 +1,3 @@
-Spark web API example
-=============
-Example project for my Blog post [Building a simple RESTful API with Spark][1].
+User Management for Egen Solutions
 
-[1]: http://www.mscharhag.com/2014/06/building-simple-restful-api-with-spark.html
+This project is a simple User Management using Java Sparks framework, MongoDB and Rest API
